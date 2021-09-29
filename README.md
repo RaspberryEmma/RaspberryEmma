@@ -27,4 +27,6 @@ I consider myself proficient with:
  - R
  - LaTeX
 
+Feel free to DM me if you want to chat maths, and I hope to be able to answer whatever questions you have.
+
 Pronouns: she / her
