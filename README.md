@@ -24,7 +24,7 @@ I consider myself proficient with:
  - Java
  - Haskell
  - C++
- - R
+ - R / RStudio
  - LaTeX
 
 Feel free to DM me if you want to chat maths, and I hope to be able to answer whatever questions you have.
