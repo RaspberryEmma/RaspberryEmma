@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 I am a PhD student with the University of Bristol, currently enrolled in "Computational Statistics and Data Science".
 I'm currently learning various OR techniques for optimisation and data handling, with an interest towards probability theory and modelling.
 
-Mainly, I'm looking for opportunities to get to contribute to open-source projects as a means of sharpening my programming skills.
+My main research interests are healthcare modelling, healthcare waiting times estimation, causal healt analysis, modelling and health equity.
+
 I consider myself proficient with:
  - Python
  - Java
