@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am a PhD student with the University of Bristol, currently enrolled in "Computational Statistics and Data Science".
-I'm currently learning various OR techniques for optimisation and data handling, with an interest towards probability theory and modelling.
+I'm currently learning the basics of epidimiology, alongside the theory underpinning it's mathematical techniques.
 
 My main research interests are healthcare modelling, healthcare waiting times estimation, causal health analysis and health equity.
 
