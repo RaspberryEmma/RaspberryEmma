@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a PhD student with the University of Bristol, currently enrolled in "Computational Statistics and Data Science".
 I'm currently learning various OR techniques for optimisation and data handling, with an interest towards probability theory and modelling.
 
-My main research interests are healthcare modelling, healthcare waiting times estimation, causal healt analysis, modelling and health equity.
+My main research interests are healthcare modelling, healthcare waiting times estimation, causal health analysis and health equity.
 
 I consider myself proficient with:
  - Python
