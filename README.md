@@ -26,7 +26,7 @@ I consider myself proficient with:
  - Haskell
  - C++
  - R / RStudio
- - LaTeX $\sqrt{3x-1}+(1+x)^2$
+ - LaTeX $ 27^{5} + 84^{5} + 110^{5} + 133^{5} = 144^{5} $
 
 Feel free to DM me if you want to chat maths, and I hope to be able to answer whatever questions you have.
 
