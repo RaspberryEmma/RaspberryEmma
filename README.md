@@ -26,7 +26,7 @@ I consider myself proficient with:
  - Haskell
  - C++
  - R / RStudio
- - LaTeX
+ - LaTeX $\sqrt{3x-1}+(1+x)^2$
 
 Feel free to DM me if you want to chat maths, and I hope to be able to answer whatever questions you have.
 
