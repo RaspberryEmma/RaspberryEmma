@@ -20,7 +20,7 @@ I'm currently learning the basics of epidimiology, alongside the theory underpin
 
 My main research interests are healthcare modelling, healthcare waiting times estimation, causal health analysis and health equity.
 
-I consider myself proficient with:
+I am proficient with:
  - Python
  - Java
  - Haskell
