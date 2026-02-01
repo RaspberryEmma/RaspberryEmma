@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student with the University of Bristol, currently enrolled in "Computational Statistics and Data Science".
-I'm currently learning the basics of epidimiology, alongside the theory underpinning it's mathematical techniques.
+I am a final-year PhD student at the University of Bristol in the COMPASS (Computational Statistics and Data Science) CDT.
 
 My main research interests are healthcare modelling, healthcare waiting times estimation, causal health analysis and health equity.
 
