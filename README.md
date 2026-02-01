@@ -28,6 +28,6 @@ I am proficient with:
  - R
  - $\LaTeX{}$: $27^{5} + 84^{5} + 110^{5} + 133^{5} = 144^{5}$
 
-Feel free to DM me if you want to chat maths, and I hope to be able to answer whatever questions you have.
+Feel free to message me if you want to chat maths or epidemiology!
 
 Pronouns: she / her
