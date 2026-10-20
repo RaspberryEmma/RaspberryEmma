@@ -24,7 +24,8 @@ I am proficient with:
  - Java
  - Haskell
  - C++
- - R
+ - R and Stata
+ - SQL, T-SQL and ehrQL
  - $\LaTeX{}$: $27^{5} + 84^{5} + 110^{5} + 133^{5} = 144^{5}$
 
 Publications:
